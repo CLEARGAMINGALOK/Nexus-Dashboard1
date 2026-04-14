@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+  <!-- Light background -->
+  <rect width="64" height="64" rx="14" fill="#f4f6fb"></rect>
+
+  <!-- Stylized N -->
+  <path d="M18 46 V18 L46 46 V18" fill="none" stroke="#1a1f2e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
